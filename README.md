@@ -11,7 +11,7 @@
 10. Odo - Ado
 11. alone - marshmello
 12. paparazzi - Lady Gaga
-
+13. Summer in Kagome - Sato Hitomi
 ------------------------------------------
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
